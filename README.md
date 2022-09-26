@@ -1,6 +1,6 @@
 # Button State and Serial
 
-————————————-------------
+-------------------------
 
 ## Description
 
